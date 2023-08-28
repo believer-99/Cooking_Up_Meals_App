@@ -1,6 +1,7 @@
 # Cooking Up Meals App
 
 Welcome to the Meals App! This app is your ultimate companion for discovering a wide variety of delicious meals along with their recipes. Whether you're a novice in the kitchen or a seasoned chef, this app has something for everyone. Explore recipes, find your favorites, and make cooking an enjoyable experience.
+![Home Screen](MealsApp1.jpg)
 
 ## Getting Started
 ### Prerequisites
@@ -29,6 +30,7 @@ The app boasts an extensive collection of meals that cater to various tastes and
 
 ### 2.Recipes
 Each meal comes with a detailed recipe that provides step-by-step instructions on how to prepare it. Simply click on a meal to access its recipe and start cooking right away.
+![Recipe Example](MealsApp2.jpg)
 
 ### 3. Additional Info about the Meal
 a. Cooking Time
@@ -42,6 +44,7 @@ Budget-conscious? No problem! Our app rates each meal's cost relevance, allowing
 
 ### 4.Favourites Page
 Have a meal you absolutely love? You can mark it as a favorite and access it later from the dedicated Favorites page. Never lose track of your most cherished recipes again.
+![Favourites Page](MealsApp3.jpg)
 
 ### 5.Meal Filters
 We understand that everyone has their own preferences. The app allows you to apply filters to the meal categories, ensuring that you only see the meals that match your desired criteria. This way, you can streamline your search and find the perfect recipe quickly.
@@ -58,3 +61,4 @@ he app has a bottom navigation bar to switch between different sections, the mea
 
  ### 4.Apply Filters
  In the filters section, you can customize your browsing experience by selecting specific categories or preferences.
+ ![Filters Page](MealsApp4.jpg)

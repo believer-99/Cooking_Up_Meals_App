@@ -1,6 +1,6 @@
 # Cooking Up Meals App
 
-Welcome to the Meals App! This app is your ultimate companion for discovering a wide variety of delicious meals along with their recipes. Whether you're a novice in the kitchen or a seasoned chef, this app has something for everyone. Explore recipes, find your favorites, and make cooking an enjoyable experience.
+Welcome to the Meals App! This app is your ultimate companion for discovering a wide variety of delicious meals along with their recipes. Whether you're a novice in the kitchen or a seasoned chef, this app has something for everyone. Explore recipes, find your favorites, and make cooking an enjoyable experience.  
 ![Home Screen](MealsApp1.jpg)
 
 ## Getting Started
@@ -29,7 +29,7 @@ git clone https://github.com/believer-99/cooking_up_meals_app.git
 The app boasts an extensive collection of meals that cater to various tastes and preferences. From breakfast to dinner and everything in between, you'll find a diverse range of meals to suit any occasion.
 
 ### 2.Recipes
-Each meal comes with a detailed recipe that provides step-by-step instructions on how to prepare it. Simply click on a meal to access its recipe and start cooking right away.
+Each meal comes with a detailed recipe that provides step-by-step instructions on how to prepare it. Simply click on a meal to access its recipe and start cooking right away.  
 ![Recipe Example](MealsApp2.jpg)
 
 ### 3. Additional Info about the Meal
@@ -43,7 +43,7 @@ c. Cost Relevance
 Budget-conscious? No problem! Our app rates each meal's cost relevance, allowing you to make choices that align with your budgetary preferences.
 
 ### 4.Favourites Page
-Have a meal you absolutely love? You can mark it as a favorite and access it later from the dedicated Favorites page. Never lose track of your most cherished recipes again.
+Have a meal you absolutely love? You can mark it as a favorite and access it later from the dedicated Favorites page. Never lose track of your most cherished recipes again.  
 ![Favourites Page](MealsApp3.jpg)
 
 ### 5.Meal Filters
@@ -60,5 +60,5 @@ he app has a bottom navigation bar to switch between different sections, the mea
  To mark a meal as a favourite, tap on the star icon the meal's recipe page. You can later view it on the favourites' page as well.
 
  ### 4.Apply Filters
- In the filters section, you can customize your browsing experience by selecting specific categories or preferences.
+ In the filters section, you can customize your browsing experience by selecting specific categories or preferences.  
  ![Filters Page](MealsApp4.jpg)
